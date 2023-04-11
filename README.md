@@ -3,7 +3,6 @@
 - 👀 I’m interested in making video games and programming.
 - 🌱 I’m currently learning LWJGL 3 programming.
 - 🖥️ I’m currently working on a game engine project called OYM Engine.
-- 📫 How to reach me? zaharefe@hotmail.com
 
 <!---
 xZEGG/xZEGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
