@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xZEGG
-- 🤓 I'm a high school student living in Turkey.
-- 👀 I’m interested in making video games and programming.
-- ❔ I’m currently learning Python Flask framework, Vue.js and C++.
+- 🤓 I'm a university student living in Turkey.
+- 👀 I’m interested in filmmaking, game dev and programming.
 - 🖥️ I’m currently working on various projects.
 
 <!---
